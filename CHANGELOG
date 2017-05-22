@@ -1,0 +1,58 @@
+10/8/2012 
+	Test github for collaborating programming and setup a basic Google App Engine project on Eclipse
+
+27/8/2012 
+	Designed simple web page interfaces
+	Implementation of WebServices
+	Initialization of DataStore
+
+30/8/2012
+	Add ViewPanel function
+
+3/9/2012
+	Iteration 1 functions
+
+8/9/2012
+	New web inteface
+	Desktop GUI
+	Unit test case
+	Integrat functions with web inteface
+
+9/9/2012
+	Iteration 2 functions
+	User login and signup functions
+	Integrate iter. 1 & 2 with desktop GUI
+
+12/9/2012
+	New wizard style web interface design
+
+13/9/2012
+	New workflow and apply wizard style
+	Optimize WebServices
+	Add plan saving function
+
+29/9/2012
+	New logo and favicon
+	New color combos
+	Wizard workflow for Desktop version
+
+1/10/2012
+	Former iter.4 with 28, 14, 15.
+
+7/10/2012
+	New Login system
+	RoofArea for wizard
+	GUI login window
+	GUI login auto save username
+	GUI with tabs and embedded map
+
+8/10/2012
+	GUI projects tab
+	Optimize float number display in geolocation page
+
+11/10/2012
+	New index page
+
+14/10/2012
+	Fix some bugs
+	Compare functions
